@@ -1,4 +1,4 @@
-#OS--SYLLABUS:
+# OS--SYLLABUS:
 
 
     1. Practicing of Basic UNIX Commands. 
