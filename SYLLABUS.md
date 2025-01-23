@@ -16,7 +16,7 @@
 - **opendir()**
 - **readdir()**
 
-> [Click here for solutions] (./LAB 02/Program1.c)
+> [Click here for solutions] (https://github.com/manidweep1306/OS/tree/main/2))
 
 ## 3. Simulate Common UNIX Commands
 
