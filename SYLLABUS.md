@@ -4,22 +4,22 @@
 
 ## 2. Write programs using the following UNIX operating system calls 
 -**fork**
-      -**exec** 
-      -**getpid**
-      -**exit**
-      -**wait**
-      -**close**
-      -**stat**
-      -**opendir** 
-      -**readdir**
+-**exec** 
+-**getpid**
+-**exit**
+-**wait**
+-**close**
+-**stat**
+-**opendir** 
+-**readdir**
     
 ## 3. Simulate UNIX commands like cp, ls, grep, etc., 
     
 ## 4. Simulate the following CPU scheduling algorithms 
--**a) FCFS **
+-**a) FCFS**
             -**b) SJF**
             -**c) Priority**
-            -**d) Round Robin**
+-**d) Round Robin**
     
 ## 5. Control the number of ports opened by the operating system with 
 -**a) Semaphore** 
