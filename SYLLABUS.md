@@ -16,7 +16,7 @@
 - **opendir()**
 - **readdir()**
 
-> [Click here for solutions] (./lab-2)
+> [Click here for solutions] (./lab2)
 
 ## 3. Simulate Common UNIX Commands
 
